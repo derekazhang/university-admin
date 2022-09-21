@@ -6,4 +6,4 @@ go mod tidy
 
 GOCMD="GO111MODULE=on go"
 
-eval "${GOCMD} run src/main.go"
+eval "${GOCMD} run main.go"

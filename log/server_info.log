@@ -1,0 +1,24 @@
+[universiyt]2022/09/21 - 23:26:14.284	[34minfo[0m	/Users/monica/Code/university/apis/initialize/router.go:16	use middleware logger
+[universiyt]2022/09/21 - 23:26:14.285	[34minfo[0m	/Users/monica/Code/university/apis/initialize/router.go:19	use middleware cors
+[universiyt]2022/09/21 - 23:26:14.285	[34minfo[0m	/Users/monica/Code/university/apis/initialize/router.go:55	router register success
+[universiyt]2022/09/21 - 23:26:14.285	[34minfo[0m	/Users/monica/Code/university/apis/core/server.go:25	server run success on 	{"address": ":8888"}
+[universiyt]2022/09/21 - 23:27:43.335	[34minfo[0m	/Users/monica/Code/university/apis/initialize/router.go:16	use middleware logger
+[universiyt]2022/09/21 - 23:27:43.336	[34minfo[0m	/Users/monica/Code/university/apis/initialize/router.go:19	use middleware cors
+[universiyt]2022/09/21 - 23:27:43.336	[34minfo[0m	/Users/monica/Code/university/apis/initialize/router.go:55	router register success
+[universiyt]2022/09/21 - 23:27:43.336	[34minfo[0m	/Users/monica/Code/university/apis/core/server.go:25	server run success on 	{"address": ":8888"}
+[university]2022/09/21 - 23:49:17.578	[34minfo[0m	/Users/monica/Code/university/apis/initialize/router.go:16	use middleware logger
+[university]2022/09/21 - 23:49:17.578	[34minfo[0m	/Users/monica/Code/university/apis/initialize/router.go:19	use middleware cors
+[university]2022/09/21 - 23:49:17.578	[34minfo[0m	/Users/monica/Code/university/apis/initialize/router.go:55	router register success
+[university]2022/09/21 - 23:49:17.578	[34minfo[0m	/Users/monica/Code/university/apis/core/server.go:25	server run success on 	{"address": ":8888"}
+[university]2022/09/21 - 23:52:36.311	[34minfo[0m	/Users/monica/Code/university/apis/initialize/router.go:16	use middleware logger
+[university]2022/09/21 - 23:52:36.312	[34minfo[0m	/Users/monica/Code/university/apis/initialize/router.go:19	use middleware cors
+[university]2022/09/21 - 23:52:36.312	[34minfo[0m	/Users/monica/Code/university/apis/initialize/router.go:55	router register success
+[university]2022/09/21 - 23:52:36.312	[34minfo[0m	/Users/monica/Code/university/apis/core/server.go:25	server run success on 	{"address": ":8888"}
+[university]2022/09/21 - 23:53:32.858	[34minfo[0m	/Users/monica/Code/university/apis/initialize/router.go:16	use middleware logger
+[university]2022/09/21 - 23:53:32.859	[34minfo[0m	/Users/monica/Code/university/apis/initialize/router.go:19	use middleware cors
+[university]2022/09/21 - 23:53:32.859	[34minfo[0m	/Users/monica/Code/university/apis/initialize/router.go:55	router register success
+[university]2022/09/21 - 23:53:32.859	[34minfo[0m	/Users/monica/Code/university/apis/core/server.go:25	server run success on 	{"address": ":8888"}
+[university]2022/09/21 - 23:55:05.490	[34minfo[0m	/Users/monica/Code/university/apis/initialize/router.go:16	use middleware logger
+[university]2022/09/21 - 23:55:05.490	[34minfo[0m	/Users/monica/Code/university/apis/initialize/router.go:19	use middleware cors
+[university]2022/09/21 - 23:55:05.490	[34minfo[0m	/Users/monica/Code/university/apis/initialize/router.go:55	router register success
+[university]2022/09/21 - 23:55:05.490	[34minfo[0m	/Users/monica/Code/university/apis/core/server.go:25	server run success on 	{"address": ":8888"}

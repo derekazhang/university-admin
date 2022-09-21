@@ -1,0 +1,6 @@
+[universiyt]2022/09/21 - 23:27:38.954	[31merror[0m	/Users/monica/Code/university/apis/core/server.go:27	accept tcp [::]:8888: use of closed network connection
+[university]2022/09/21 - 23:43:01.918	[31merror[0m	/Users/monica/Code/university/apis/core/server.go:27	accept tcp [::]:8888: use of closed network connection
+[university]2022/09/21 - 23:52:14.027	[31merror[0m	/Users/monica/Code/university/apis/core/server.go:27	accept tcp [::]:8888: use of closed network connection
+[university]2022/09/21 - 23:53:30.100	[31merror[0m	/Users/monica/Code/university/apis/core/server.go:27	accept tcp [::]:8888: use of closed network connection
+[university]2022/09/21 - 23:55:02.181	[31merror[0m	/Users/monica/Code/university/apis/core/server.go:27	accept tcp [::]:8888: use of closed network connection
+[university]2022/09/21 - 23:57:04.289	[31merror[0m	/Users/monica/Code/university/apis/core/server.go:27	accept tcp [::]:8888: use of closed network connection
