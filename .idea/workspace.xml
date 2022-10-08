@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c20fbc2f-76b8-4cbe-9015-fbc5501a9bfe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/apis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/entry.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/miniprogram/entry.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/user/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/v1/entry.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/v1/entry.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/v1/manage/entry.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/v1/manage/entry.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/v1/manage/manage_admin_user.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/v1/manage/manage_admin_user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/v1/manage/manage_course.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/v1/manage/manage_course.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/v1/mini/entry.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/v1/mini/entry.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/v1/mini/mioni_course.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/viper.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/viper.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/zap.go" beforeDir="false" afterPath="$PROJECT_DIR$/core/zap.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global/global.go" beforeDir="false" afterPath="$PROJECT_DIR$/global/global.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/initialize/gorm.go" beforeDir="false" afterPath="$PROJECT_DIR$/initialize/gorm.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/initialize/gorm_mysql.go" beforeDir="false" afterPath="$PROJECT_DIR$/initialize/gorm_mysql.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/initialize/internal/gorm.go" beforeDir="false" afterPath="$PROJECT_DIR$/initialize/internal/gorm.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/initialize/internal/logger.go" beforeDir="false" afterPath="$PROJECT_DIR$/initialize/internal/logger.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/initialize/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/initialize/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/server_error.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/server_error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/server_info.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/server_info.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware/jwt.go" beforeDir="false" afterPath="$PROJECT_DIR$/middleware/jwt.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/course/course.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/course/course.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/manage/request/manage_admin_user.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/manage/request/manage_admin_user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/enter.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/manage/enter.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/manage/manage_course.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/mini/enter.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/mini/mini_course.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/entry.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/manage/entry.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/manage/manage_admin_user.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/manage/manage_admin_user_token.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/manage/manage_course.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/mini/entry.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/mini/manage_admin_user_token.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/mini/mini_course.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/constant.go" beforeDir="false" afterPath="$PROJECT_DIR$/utils/constant.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/rotatelogs.go" beforeDir="false" afterPath="$PROJECT_DIR$/utils/rotatelogs.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/opt/go/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FigJrz4RUg83OhCMVwctdewDXk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/monica/Code/university/apis"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="apis" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build university" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="apis" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="university" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="apis" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build university" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/api/v1/manage/manage_admin_user.go</url>
+          <line>52</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
